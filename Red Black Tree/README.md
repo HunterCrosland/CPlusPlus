@@ -11,5 +11,7 @@ An explanation of this data structure is given on [Wikipedia](https://en.wikiped
 >The re-balancing is not perfect, but guarantees searching in O(log n) time, where n is the number of nodes of the tree. The insertion and deletion 
 >operations, along with the tree rearrangement and recoloring, are also performed in O(log n) time.
 
-This particular implementation is incredibly verbose, not to mention has flaws. It is intended to serve as resume source value, and not as
+This particular implementation is incredibly verbose, not to mention has flaws. It is intended to serve as resume value, and not as
 a legitimate tool. I may remake it later so that it is also the latter.
+
+Timer.h is written by Michael Lindstrom, a Program in Computing professor at UCLA. I created this structure for an assignment in his class.
